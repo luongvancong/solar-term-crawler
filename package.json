@@ -1,0 +1,16 @@
+{
+  "name": "solar-term-crawler",
+  "version": "1.0.0",
+  "description": "Solar term crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BlackBear",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "moment": "^2.29.1",
+    "puppeteer": "^10.1.0"
+  }
+}
